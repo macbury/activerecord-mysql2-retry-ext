@@ -1,4 +1,3 @@
-require "active_record/connection_adapters/mysql2_adapter"
 require "activerecord-mysql2-retry-ext/version"
 
 class ActiveRecord::ConnectionAdapters::Mysql2Adapter
